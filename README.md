@@ -1,4 +1,4 @@
-# abb_robot_driver_interfaces
+# abb_ros2_msgs
 
 **Please note that the included packages have not been productized, and that academia is the intended audience.**\
 **The packages are provided "as-is", and as such no more than limited support can be expected.**
